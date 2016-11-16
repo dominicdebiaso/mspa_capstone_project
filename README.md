@@ -1,1 +1,2 @@
-# scraper to retrieve beverage information for MSPA Capstone project
+# Northwestern MS Predictive Analytics Capstone project
+## Scrape beverage data and perform machine learning classification techniques
